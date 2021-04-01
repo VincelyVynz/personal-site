@@ -1,0 +1,81 @@
+body
+{
+  background-color: #E4F9F5;
+  position: relative;
+  text-align: center;
+
+}
+
+h1
+{
+  border: 0;
+  margin: 0 auto auto auto;
+  padding-top: 120px;
+  line-height: normal;
+  margin: 50px, auto, 0, auto;
+  color: #66BFBF;
+  font-size: 562.5%;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2
+{
+  color: #66BFBF;
+}
+
+h3
+{
+  color: #11999E;
+}
+
+
+a
+{
+  color: #11999E;
+}
+
+.sub-heading
+{
+  font-weight: normal;
+}
+
+.top-container
+{
+}
+
+.middle-container
+{
+}
+
+.bottom-container
+{
+}
+
+.top-cloud
+{
+  position: absolute;
+  top: 70px;
+  right: 400px;
+}
+
+.bottom-cloud
+{
+  position: absolute;
+  left: 350px;
+top: 300px;
+}
+
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-img
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px:
+}
